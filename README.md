@@ -9,6 +9,6 @@ Mapped CO₂ Emissions Per Capita (Tableau) — Developed an interactive world m
 
 Dashboard Link:
 
-[Click Here To Open Tableau Link ]([http://public.tableau.com/app/profile/cristian.alvarez3229/viz/CaliforniaUnemploymentStatisticsthroughouttime/UnemploymentRank](https://public.tableau.com/app/profile/cristian.alvarez3229/viz/MappedCOEmissionsPerCapita/Story1#1)
+[Click Here To Open Tableau Link ](https://public.tableau.com/app/profile/cristian.alvarez3229/viz/MappedCOEmissionsPerCapita/Story1#1)
 
 <img width="748" height="536" alt="image" src="https://github.com/user-attachments/assets/60108abc-9ec3-4956-bb5c-757f5064c5ad" />
